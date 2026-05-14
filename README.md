@@ -53,3 +53,6 @@ Email: Scinah14@gmail.com
 
 Add file → Create new file
 public/images/hero.jpg
+public/images: Add file → Upload files
+
+
