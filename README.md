@@ -52,4 +52,3 @@ Phone/WhatsApp: +27 72 150 3791
 Email: Scinah14@gmail.com
 
 Add file → Create new file
-public/images/hero.jpg
